@@ -1,0 +1,13 @@
+{
+  "name": "qa12j_aliaksandr_krakasevich_saucedemo",
+  "version": "1.0.0",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aliaksandr Krakasevich",
+  "license": "ISC",
+  "description": ""
+}
